@@ -3,7 +3,8 @@ import array
 # Con 640 x 480 salen 4 imgs
 width = 640
 height = 480
-max_iteraciones = 255
+max_iteraciones = 256
+number = 4
 
 # Crear imagen en formato PPM
 def crearPPM(fractal):
